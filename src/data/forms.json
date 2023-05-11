@@ -1,0 +1,23 @@
+{
+    "name": "Base Access Forms",
+    "description": "Download and forward each form through your sponsorship POC before submitting to 51st Security Forces",
+    "documents": [
+        {
+            "name": "Form 81E and 82E Process Document",
+            "path": "81-82 process.docx"
+        },
+        {
+            "name": "USFK Form 82E FPCON C-D",
+            "path": "USFK Form 82E- FPCON C-D.pdf"
+        },
+        {
+            "name": "USFK Form 82E",
+            "path": "USFK Form 82E BLANK EXAMPLE.docx"
+        },
+        {
+            "name": "USFK Form 81E",
+            "path": "USFK FORM 81E-Blank Signature Block.pdf"
+        }
+    ]
+
+}

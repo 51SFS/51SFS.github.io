@@ -1,0 +1,16 @@
+{
+    "name": "Sponsorship Training",
+    "description": "Read slides and take test",
+    "documents": [
+        {
+            "name": "Sponsorship Training Slides",
+            "path": "training slides.pptx"
+        }
+    ],
+    "link": [
+        {
+            "name": "Sponsorship Training Quiz",
+            "path": "https://forms.osi.apps.mil/r/snDHfAEcXi"
+        }
+    ]
+}
