@@ -2,11 +2,11 @@
 
 ## Osan AB Base Access Request Information 
 
-Welcome to the homepage for 51st Security Forces. Below are a collection of forms to submit to request base access
+Welcome to the homepage for 51st Security Forces. Below are a collection of forms and training to submit a base access request.
 
 ## Base Access Forms
 
-Download and forward each form through your sponsorship POC before submitting to 51st Security Forces
+Download and forward each form through your sponsorship POC before submitting to 51st Security Forces.
 
 1. [Form 81E and 82E Process Document](./81-82_process.docx)
 2. [USFK Form 82E FPCON C-D](./USFK_Form_82E_FPCON_C-D.pdf)
