@@ -8,10 +8,10 @@ Welcome to the homepage for 51st Security Forces. Below are a collection of form
 
 Download and forward each form through your sponsorship POC before submitting to 51st Security Forces.
 
-1. [Form 81E and 82E Process Document](./81-82_process.docx){:target="_blank"}
-2. [USFK Form 82E FPCON C-D](./USFK_Form_82E_FPCON_C-D.pdf){:target="_blank"}
-3. [USFK Form 82E](./USFK_Form_82E_BLANK_EXAMPLE.docx){:target="_blank"}
-4. [USFK Form 81E](./USFK_FORM_81E-Blank_Signature_Block.pdf){:target="_blank"}
+1. <a href="./81-82_process.docx" target="_blank">Form 81E and 82E Process Document</a>
+2. <a href="./USFK_Form_82E_FPCON_C-D.pdf" target="_blank">USFK Form 82E FPCON C-D</a>
+3. <a href="./USFK_Form_82E_BLANK_EXAMPLE.docx" target="_blank">USFK Form 82E</a>
+4. <a href="./USFK_FORM_81E-Blank_Signature_Block.pdf" target="_blank">USFK Form 81E</a>
 
 ## Training
 
