@@ -17,7 +17,7 @@ Download and forward each form through your sponsorship POC before submitting to
 
 Access our [training powerpoint](./training_slides.pptx){:target="_blank"} to learn more about being a sponsor on base.
 
-Once you have completed the training, click <a href="https://forms.osi.apps.mil/r/snDHfAEcXi" target="_blank">hereh</a> to access the test.
+Once you have completed the training, click <a href="https://forms.osi.apps.mil/r/snDHfAEcXi" target="_blank">here</a> to access the test.
 ## Contact
 
 Please send all final completed forms to [our orgbox email](mailto:51SFS.S5.IA@US.AF.Mil).
