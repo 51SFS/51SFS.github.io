@@ -21,6 +21,6 @@ Sponsors MUST complete the training below and score atleast an 80% on the TEST
 Access our [Training Powerpoint](./training_slides.pptx) ONLY if you are an Organizational Sponsor on base.
 
 Once you have completed the training, click <a href="https://forms.osi.apps.mil/r/snDHfAEcXi" target="_blank">HERE</a> to access the test.
-## Contact
+## Contact 
 
-Please send all final completed forms to [our orgbox email](mailto:51SFS.S5.IA@US.AF.Mil).
+Please submit final completed forms to [our orgbox email](mailto:51SFS.S5.IA@US.AF.Mil).
